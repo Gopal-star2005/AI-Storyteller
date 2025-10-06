@@ -1,0 +1,1 @@
+A storyteller like humans but not a human which uses Gemini AI to create beautiful and amazing stories through images and prompts and genrating it which can be downloaded as PDF file for reading purposr and also can be downloaded as Audio File to listen the generated story.
