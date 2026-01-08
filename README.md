@@ -140,8 +140,8 @@ For collaborations, research discussions, or professional opportunities:
 
 ---
 
-## ⭐ If you find this project useful or inspiring, consider giving it a star.
-## Your support helps open-source AI innovation grow.
+If you find this project useful or inspiring, consider giving it a star ⭐.
+Your support helps open-source AI innovation grow.
 
 ---
 
