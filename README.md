@@ -87,7 +87,7 @@ All secret keys have been **intentionally removed** and must be configured via e
 ## ⚙️ Installation & Setup
 ```bash
 git clone https://github.com/Gopal-star2005/AI-Storyteller.git
-cd <repo-name>
+cd AI-Storyteller
 pip install -r requirements.txt
 ```
 ---
