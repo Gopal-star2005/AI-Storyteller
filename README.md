@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/banner.svg" alt="AI Visual Storyteller Banner" />
+  <img src="https://raw.githubusercontent.com/<Gopal-star2005>/<AI-Storyteller>/main/assets/banner.svg" alt="AI Visual Storyteller Banner" />
 </p>
 
 # 📖 AI Visual Storyteller — Multimodal Generative AI Platform
