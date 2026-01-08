@@ -6,7 +6,7 @@
 > A multimodal generative AI system that transforms prompts into illustrated stories, audiobooks, and PDFs—end to end.
 
 ![Status](https://img.shields.io/badge/status-active-success)
-![CI](https://github.com/Gopal-star2005/AI-Storyteller/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Gopal-star2005/AI-Storyteller/workflows/ci.yml/badge.svg)
 ![AI](https://img.shields.io/badge/AI-Gemini%20AI-purple)
 ![Tech Stack](https://img.shields.io/badge/tech-Python%20%7C%20Generative%20AI%20%7C%20TTS%20%7C%20PDF-blue)
 ![Deployment](https://img.shields.io/badge/public%20access-NGrok-black)
